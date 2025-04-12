@@ -71,6 +71,10 @@ traveler-companion/
 
 ├── app/                    # Next.js App Router structure
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9daf15f (little change in readme)
 │   ├── about/              # About us page
 
 │   ├── auth/               # Authentication (login/signup)
@@ -113,7 +117,10 @@ traveler-companion/
 
 │   └── theme-provider.tsx  # Theme context provider
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9daf15f (little change in readme)
 ├── hooks/                  # Custom React hooks
 
 ├── lib/                    # Utility functions
@@ -129,13 +136,13 @@ traveler-companion/
 ## 🖼️ Screenshots
 
 ### Homepage
-![Homepage](https://github.com/Wajahat-Infinity/traveler-companion/raw/main/public/images/slides/s2.jpg)
+![Homepage](https://github.com/Wajahat-Infinity/traveler-companion/raw/main/public/images/slides/homepageSC.png)
 
 ### Traveler Dashboard
-![Traveler Dashboard](https://github.com/Wajahat-Infinity/traveler-companion/raw/main/public/images/slides/s3.jpg)
+![Traveler Dashboard](https://github.com/Wajahat-Infinity/traveler-companion/raw/main/public/images/slides/userSC.png)
 
 ### Vendor Dashboard
-![Vendor Dashboard](https://github.com/Wajahat-Infinity/traveler-companion/raw/main/public/images/destinations/d1.jpg)
+![Vendor Dashboard](https://github.com/Wajahat-Infinity/traveler-companion/raw/main/public/images/destinations/vendorsSC.jpg)
 
 ## 🤝 Contributing
 
