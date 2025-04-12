@@ -66,34 +66,64 @@ A comprehensive travel platform connecting travelers with hotels, local guides, 
 
 
 \`\`\`
+
 traveler-companion/
+
 ├── app/                    # Next.js App Router structure
+
 │   ├── about/              # About us page
+
 │   ├── auth/               # Authentication (login/signup)
+
 │   ├── checkout/           # Booking checkout process
+
 │   ├── components/         # Shared components
+
 │   ├── dashboard/          # Traveler dashboard
+
 │   ├── destinations/       # Destination listings and details
+
 │   ├── find-companion/     # Traveler pairing functionality
+
 │   ├── hotels/             # Hotel listings and details
+
 │   ├── local-guides/       # Guide listings and details
+
 │   ├── privacy/            # Privacy policy
+
 │   ├── recommendations/    # AI-powered travel recommendations
+
 │   ├── terms/              # Terms of service
+
 │   ├── travel-agencies/    # Travel agency listings
+
 │   ├── traveler-pairing/   # Additional pairing functionality
+
 │   ├── vendor/             # Vendor dashboards and management
+
 │   ├── globals.css         # Global styles
+
 │   ├── layout.tsx          # Root layout
+
 │   └── page.tsx            # Homepage
+
 ├── components/             # Global UI components
+
 │   ├── ui/                 # shadcn/ui components
+
 │   └── theme-provider.tsx  # Theme context provider
+
+
 ├── hooks/                  # Custom React hooks
+
 ├── lib/                    # Utility functions
+
 ├── public/                 # Static assets
+
 │   └── images/             # Image assets
+
 └── README.md               # Project documentation
+
 \`\`\`
 
 ## 🖼️ Screenshots
