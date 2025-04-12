@@ -64,6 +64,7 @@ A comprehensive travel platform connecting travelers with hotels, local guides, 
 
 ## 📱 Application Structure
 
+
 \`\`\`
 traveler-companion/
 ├── app/                    # Next.js App Router structure
@@ -93,7 +94,6 @@ traveler-companion/
 ├── public/                 # Static assets
 │   └── images/             # Image assets
 └── README.md               # Project documentation
-
 \`\`\`
 
 ## 🖼️ Screenshots
