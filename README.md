@@ -142,7 +142,7 @@ traveler-companion/
 ![Traveler Dashboard](https://github.com/Wajahat-Infinity/traveler-companion/raw/main/public/images/slides/userSC.png)
 
 ### Vendor Dashboard
-![Vendor Dashboard](https://github.com/Wajahat-Infinity/traveler-companion/raw/main/public/images/destinations/vendorsSC.png)
+![Vendor Dashboard](https://github.com/Wajahat-Infinity/traveler-companion/raw/main/public/images/slides/vendorsSC.png)
 
 ## 🤝 Contributing
 
